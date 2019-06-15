@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pengxAlone/pengxuan-npm.git"
+    "url": "https://github.com/pengxAlone/pengx.git"
   },
   "keywords": [
     "pengxuan"
@@ -16,7 +16,7 @@
   "author": "pengxuan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pengxAlone/pengxuan-npm/issues"
+    "url": "https://github.com/pengxAlone/pengx/issues"
   },
-  "homepage": "https://github.com/pengxAlone/pengxuan-npm#readme"
+  "homepage": "https://github.com/pengxAlone/pengx#readme"
 }
